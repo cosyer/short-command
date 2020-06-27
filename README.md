@@ -31,5 +31,5 @@ sc ip 获取本机ip
 
 ### 安装
 ```
-npm install sc-short-command -g
+npm install short-command -g
 ```
